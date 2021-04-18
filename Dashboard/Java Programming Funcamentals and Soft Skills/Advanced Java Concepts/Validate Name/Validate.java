@@ -1,3 +1,4 @@
-public interface Validate {
-    boolean validateName(String name);
+public interface Validate{
+    //write the abstract method 
+    public boolean validateName(String name);
 }
