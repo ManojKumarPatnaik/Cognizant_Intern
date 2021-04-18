@@ -68,12 +68,22 @@
 - [Visitors Details]
 - [Retrieving Data from file]
 - [Presist Employee]
+- [Number of New Words]
 
 ### Collection Framework
 
 - [Add Flight using JDBC]
 - [Mall Parking System]
 - [Validate Name]
+-  [Auditing]
+- [Travel Agency]
+- [Employee Loan Eligibility]
+- [Placement Enrollement Count]
+- [Fruit Basket Estimation]
+- [Employee Promotion]
+- [Search for Train- JDBC]
+- [Player Selection System- JDBC]
+
 ## Software Fundamentals and Soft Skills
 
 ### Database Management
