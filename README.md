@@ -10,7 +10,7 @@
 - [Code Challenge 4 - Java Programming - Inheritance & Polymorphism, Abstract Classes & Interfaces]
 - [Code Challenge 5 - Java Programming - Collections Framework and Generics]
 - [Code Challenge 6 - Java Programming - Nested Classes, enums, Multi-threading]
-- [Code Challenge 7 - Java Programming - Date & Time API, Database Implementation & JDBC API]()
+- [Code Challenge 7 - Java Programming - Date & Time API, Database Implementation & JDBC API]
 - [Code Challenge 8 - Java Programming - Lambdas & Streams]
 
 ### Java Programming Language
