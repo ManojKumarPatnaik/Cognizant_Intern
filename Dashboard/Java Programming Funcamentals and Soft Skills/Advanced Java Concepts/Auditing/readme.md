@@ -1,30 +1,51 @@
 # Auditing
 
 
+
+
 Lego is a famous company in the city. The company is due for auditing in the upcoming days. During the auditing details of the employees will be verified, but only for selected employees.  Manually collecting the details will be difficult. So help them to print the details of the employees as per the requirement. The details of the employees need to be printed according to their salary.
 
 Help them to write a java program to find the employees whose salary is less than or equal to the salary specified by the auditors using Lambdas.
 
 
 
-- Requirement 1: Find the employee details
+
+
+Requirement 1: Find the employee details
 
 Lego company wants to identify the employees whose salary is less than or equal to the salary specified by the auditors. By using the method fetchEmployeeDetails, identify the employees whose salary is less than or equal to the salary specified by the auditors.
 
-type: EmployeeAudit
+Component Specification: Employee Interface- This is a Functional Interface.
 
-methods: public ArrayList<String> fetchEmployeeDetails (double salary)
+Type(Interface)
 
-Responsibilities: This method is used to identify the employees whose salary is less than or equal to the salary passed as an argument by using Lambda expressions.
+Methods
 
+Responsibilities
 
+EmployeeAudit
 
-- Component Specification: Main Class
+public ArrayList<String> fetchEmployeeDetails (double salary)
+
+This method is used to identify the employees whose salary is less than or equal to the salary passed as an argument by using Lambda expressions.
+
+ 
+
+Component Specification: Main Class
 
 ·         Add the employee details using a Map which holds the key as Employee name and value as Employees’ salary. Where the map is given as a private attribute with the getters and setters as a part of the code skeleton.
 
 ·         Then implement the method public static EmployeeAudit findEmployee() which holds the employee details using Lambda Expressions.
 
+ 
+
+Component Name
+
+Type(Class)
+
+Methods
+
+Responsibilities
 
 Obtain Employee Details
 
@@ -42,7 +63,7 @@ public static EmployeeAudit findEmployee()
 
 This method should return an EmployeeAudit object. To do this, implement the Lambda expression and identify the employees whose salary is less than or equal to the salary passed as an argument.
 
-
+ 
 
 If the returned list is empty, then display “No Employee Found“.
 
@@ -145,4 +166,3 @@ Enter the choice
 3
 
 Let's complete the session
-
